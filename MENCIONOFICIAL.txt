@@ -1,1 +1,3 @@
-Hey agregué documentación nueva. Esto lo tienen que agregar a sus forked repositories.
+Hey cambie documentación nueva. Esto lo tienen que agregar a sus forked (YOLO) repositories.
+
+2do cambio desde la web: con Sync baja, veamos si guarda cambios mas grandes
